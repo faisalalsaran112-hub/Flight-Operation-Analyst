@@ -1,5 +1,4 @@
-# Flight-Operation-Analyst
-Flight Operations Analytics & Forecasting
+# Flight-Operations-Analytics & Forecasting
 
 Overview
 
