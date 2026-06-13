@@ -32,7 +32,6 @@ Project Files
 
 * Power BI Dashboard
 * Graduation Project Presentation
-* Statistical Analysis Report
 
 Author
 
